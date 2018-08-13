@@ -4,7 +4,5 @@
 <font size="20" color="#000080"><p>Ameerpet</font></p>
 <font size="20" color="#00FF7F"><p>Nilgiri-Block</font></p>
 <font size="20" color="#0000ff"><p>Sathyam theatre road </font></p>
-<font size="20" color="#40ff00"><p>my task completed</font></p>
-
 </body>
 </html>
