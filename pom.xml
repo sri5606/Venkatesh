@@ -14,8 +14,22 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+   
+    <dependency>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-deploy-plugin</artifactId>
+      <version>2.7</version>
+    </dependency>
+
   </dependencies>
   <build>
     <finalName>polyglot</finalName>
   </build>
+  <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ip-172-31-87-128-releases</name>
+        <url>http://18.212.182.20:8081/artifactory/libs-release-local</url>
+    </repository>
+</distributionManagement>
 </project>
