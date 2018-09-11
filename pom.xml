@@ -22,17 +22,17 @@
   </dependencies>
   <build>
     <finalName>polyglot</finalName>
-  </build>
-  <distributionManagement>
+  </build> 
+<distributionManagement>
     <repository>
         <id>central</id>
-        <name>ip-172-31-94-151-releases</name>
-        <url>http://54.147.78.73:8081/artifactory/my-maven-repo</url>
+        <name>ip-172-31-88-125-releases</name>
+        <url>http://18.212.18.2:8081/artifactory/srinivas</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>ip-172-31-94-151-snapshots</name>
-        <url>http://54.147.78.73:8081/artifactory/my-maven-repo</url>
+        <name>ip-172-31-88-125-snapshots</name>
+        <url>http://18.212.18.2:8081/artifactory/srinivas</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
